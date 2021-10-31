@@ -1693,6 +1693,7 @@ export const mainnetTokens = {
     'https://launchpad.binance.com/en/subscription/LAZIO_BNB',
   ),
   arv: new Token(MAINNET, '0x6679eB24F59dFe111864AEc72B443d1Da666B360', 8, 'ARV', 'ARIVA', 'https://ariva.digital'),
+  szcb: new Token(MAINNET, '0x702371e0897f5e2f566b1ce8256856d0549c5857', 8, 'SZCB', 'ZUGACOIN', 'https://zugacoin.io'),
 }
 
 export const testnetTokens = {
