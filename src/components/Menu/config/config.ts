@@ -101,7 +101,7 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
       },
       {
         label: t('Docs'),
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://support.zugaex.com',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
     ],
